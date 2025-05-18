@@ -1,0 +1,33 @@
+# Android Studio i IntelliJ fajlovi
+*.iml
+.idea/
+
+# Gradle fajlovi
+.gradle/
+build/
+
+# Osjetljivi fajlovi
+local.properties
+google-services.json
+
+# Generisani fajlovi
+*.apk
+*.ap_
+*.aar
+*.so
+
+# Native build fajlovi
+.externalNativeBuild
+.cxx
+
+# Android Studio snimci i keš
+/captures
+/.idea/httpRequests
+
+# macOS i Linux fajlovi
+.DS_Store
+__pycache__/
+
+# Debug i test fajlovi
+*.log
+*.test

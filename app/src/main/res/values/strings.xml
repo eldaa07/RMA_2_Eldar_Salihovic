@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="splash_text_description">Application title</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="logout">Odjava</string>
+    <string name="add_to_wishlist">Dodaj u wishlistu</string>
+    <string name="remove_from_wishlist">Ukloni iz wishliste</string>
+    <string name="profile">Profil</string>
+    <string name="toggle_theme">Promijeni temu</string>
+    <string name="email">E-mail</string>
+    <string name="name">Ime</string>
+    <string name="change_password">Promijeni lozinku</string>
+    <string name="new_password">Nova lozinka</string>
+    <string name="confirm_password">Potvrdi lozinku</string>
+    <string name="update_password">Ažuriraj lozinku</string>
+</resources>

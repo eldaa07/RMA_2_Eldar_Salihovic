@@ -1,0 +1,17 @@
+<resources>
+
+    <color name="background_color">#121212</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#BBBBBB</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="background_color_light">#FFFFFF</color>
+    <color name="text_primary_light">#000000</color>
+    <color name="text_secondary_light">#666666</color>
+    <color name="colorPrimary_light">#6200EE</color>
+    <color name="colorPrimaryDark_light">#3700B3</color>
+    <color name="colorAccent_light">#03DAC5</color>
+</resources>
